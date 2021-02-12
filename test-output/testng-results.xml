@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-08T08:37:23Z" name="Suite" finished-at="2021-02-08T08:37:45Z" duration-ms="22531">
+    <groups>
+    </groups>
+    <test started-at="2021-02-08T08:37:23Z" name="Test" finished-at="2021-02-08T08:37:45Z" duration-ms="22531">
+      <class name="Acmetek.ActionEDI.Login">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Acmetek.ActionEDI.Login@4b8d604b]" started-at="2021-02-08T08:37:23Z" name="initialize" finished-at="2021-02-08T08:37:40Z" duration-ms="16818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="userlogin()[pri:0, instance:Acmetek.ActionEDI.Login@4b8d604b]" started-at="2021-02-08T08:37:40Z" name="userlogin" finished-at="2021-02-08T08:37:45Z" duration-ms="5614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userlogin -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Acmetek.ActionEDI.Login@4b8d604b]" started-at="2021-02-08T08:37:45Z" name="Teardown" finished-at="2021-02-08T08:37:45Z" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Acmetek.ActionEDI.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
